@@ -1,10 +1,37 @@
 # #100DaysOfCode Log - Round 1 - [Your Name Here]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [Aug 7, Friday, 2020].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D1: Aug 7, Friday, 2020
 
-### R1D2
+**Today's Progress**: Read the chapter 5(Standard I/O Library) and chapter 7(Process Environment) of Advanced Programming in the UNIX Environment..
+
+### R1D2: Aug 8, Saturday, 2020
+
+**Today's Progress**: Learned the basics of HTML and CSS and wrote a simple static page that mimics the Google homepage.
+
+### R1D3: Aug 9, Sunday, 2020
+
+**Today's Progress**: Learned the basics of JavaScript and wrote a simple 2048 web mini-game.
+
+### R1D4: Aug 10, Monday, 2020
+
+**Today's Progress**: Learned how to use fetch and promise and wrote a rudimentary web chatbot.
+
+### R1D5: Aug 11, Tuesday, 2020
+
+**Today's Progress**: begin to learn Vue.js, already read some chapters and wrote the code. I will continue tomorrow.
+
+### R1D6: Aug 12, Wednesday, 2020
+
+**Today's Progress**: After learning the basics of Vue.js, refer to this link(http://iamkumaran.github.io/vue-js/vue-js-todo-app-part-1.html) to learn to write a simple todolist.
+
+### R1D7: Aug 13, Thursday, 2020
+
+**Today's Progress**: learned the basics of vuex and vue-router, begin to reading the source code of a vue starter project, I wish I could rewrite a copy.
+
+### R1D8: Aug 14, Friday, 2020
+
+**Today's Progress**: Start going back to go over the basics of html, css and JavaScript and get ready to start writing some code to reinforce the knowledge.
