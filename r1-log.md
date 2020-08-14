@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [ Xlgd ]
 
 The log of my #100DaysOfCode challenge. Started on [Aug 7, Friday, 2020].
 
