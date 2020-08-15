@@ -35,3 +35,9 @@ The log of my #100DaysOfCode challenge. Started on [Aug 7, Friday, 2020].
 ### R1D8: Aug 14, Friday, 2020
 
 **Today's Progress**: Start going back to go over the basics of html, css and JavaScript and get ready to start writing some code to reinforce the knowledge.
+
+### R1D9: Aug 15, Saturday, 2020
+
+**Today's Progress**: 
+- Reviewed the values, types, functions and data structures of the javascript. 
+- got the python golden badge at HackerRank
