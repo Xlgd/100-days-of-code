@@ -12,6 +12,10 @@ The log of my #100DaysOfCode challenge. Started on [Aug 7, Friday, 2020].
 
 **Today's Progress**: Learned the basics of HTML and CSS and wrote a simple static page that mimics the Google homepage.
 
+**Thoughts**:
+
+**Link to work:**
+
 ### R1D3: Aug 9, Sunday, 2020
 
 **Today's Progress**: Learned the basics of JavaScript and wrote a simple 2048 web mini-game.
