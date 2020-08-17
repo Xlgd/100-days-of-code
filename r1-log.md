@@ -45,3 +45,11 @@ The log of my #100DaysOfCode challenge. Started on [Aug 7, Friday, 2020].
 **Today's Progress**: 
 - Reviewed the values, types, functions and data structures of the javascript. 
 - got the python golden badge at HackerRank
+
+### R1D10: Aug 16, Sunday, 2020
+
+**Today's Progress**: continue reading the javascript book and coding some exercises.
+
+### R1D11: Aug 17, Monday, 2020
+
+**Today's Progress**: ready to finish the exercises in a javascript book.
