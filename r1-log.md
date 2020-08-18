@@ -53,3 +53,7 @@ The log of my #100DaysOfCode challenge. Started on [Aug 7, Friday, 2020].
 ### R1D11: Aug 17, Monday, 2020
 
 **Today's Progress**: ready to finish the exercises in a javascript book.
+
+### R1D12: Aug 18, Tuesday, 2020
+
+**Today's Progress**: An exhausting but fulfilling day, I finished the Basic HTML and HTML5, Basic CSS and Applied Visual Design.  It's fun!
