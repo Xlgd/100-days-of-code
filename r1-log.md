@@ -61,3 +61,7 @@ The log of my #100DaysOfCode challenge. Started on [Aug 7, Friday, 2020].
 ### R1D13: Aug 19, Wednesday, 2020
 
 **Today's Progress**: Working on the first project: Build a Tribute Page
+
+### R1D14: Aug, 20, Thursday, 2020
+
+**Today's Progress**: Finish the second project: Build a Survey Form.
