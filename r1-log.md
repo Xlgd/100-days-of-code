@@ -65,3 +65,11 @@ The log of my #100DaysOfCode challenge. Started on [Aug 7, Friday, 2020].
 ### R1D14: Aug, 20, Thursday, 2020
 
 **Today's Progress**: Finish the second project: Build a Survey Form.
+
+### R1D15: Aug, 21, Friday, 2020
+
+**Today's Progress**: Finish the third project: Build a Technical Documentation Page.
+
+### R1D16: Aug, 22, Saturday, 2020
+
+**Today's Progress**: Finish the fourth project: Build a Technical Documentation Page.
