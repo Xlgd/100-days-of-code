@@ -73,3 +73,7 @@ The log of my #100DaysOfCode challenge. Started on [Aug 7, Friday, 2020].
 ### R1D16: Aug, 22, Saturday, 2020
 
 **Today's Progress**: Finish the fourth project: Build a Technical Documentation Page.
+
+### R1D17: Aug, 23, Sunday, 2020
+
+**Today's Progress**: Finish the fifth project and get the certification.
