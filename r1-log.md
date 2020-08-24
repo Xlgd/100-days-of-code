@@ -77,3 +77,7 @@ The log of my #100DaysOfCode challenge. Started on [Aug 7, Friday, 2020].
 ### R1D17: Aug, 23, Sunday, 2020
 
 **Today's Progress**: Finish the fifth project and get the certification.
+
+### R1D18: Aug, 24, Monday, 2020
+
+**Today's Progress**: Learned the basics of ES6 and regex, begin to learn Algorithms, Part I.
