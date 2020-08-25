@@ -81,3 +81,7 @@ The log of my #100DaysOfCode challenge. Started on [Aug 7, Friday, 2020].
 ### R1D18: Aug, 24, Monday, 2020
 
 **Today's Progress**: Learned the basics of ES6 and regex, begin to learn Algorithms, Part I.
+
+### R1D19: Aug, 25, Tuesday, 2020
+
+**Today's Progress**: First week of programming assignments for the algorithm being completed.
