@@ -85,3 +85,7 @@ The log of my #100DaysOfCode challenge. Started on [Aug 7, Friday, 2020].
 ### R1D19: Aug, 25, Tuesday, 2020
 
 **Today's Progress**: First week of programming assignments for the algorithm being completed.
+
+### R1D20: Aug, 26, Wednesday, 2020
+
+**Today's Progress**: Spent nearly 3 hours completing the first week of programming assignments for the algorithm, put it on GitHub, and continued to complete the JavaScript course.
