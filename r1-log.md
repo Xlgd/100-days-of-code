@@ -97,3 +97,7 @@ The log of my #100DaysOfCode challenge. Started on [Aug 7, Friday, 2020].
 ### R1D22: Aug, 28, Friday, 2020
 
 **Today's Progress**: Spent nearly 3 hours completing the second week of programming assignments for the algorithms, put it on GitHub.
+
+### R1D23: Aug, 29, Saturday, 2020
+
+**Today's Progress**: learned the Elementary Sorts of week2 and begin to learn week3 course.
