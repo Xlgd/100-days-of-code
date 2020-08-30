@@ -101,3 +101,7 @@ The log of my #100DaysOfCode challenge. Started on [Aug 7, Friday, 2020].
 ### R1D23: Aug, 29, Saturday, 2020
 
 **Today's Progress**: learned the Elementary Sorts of week2 and begin to learn week3 course.
+
+### R1D24: Aug, 30, Sunday, 2020
+
+**Today's Progress**: I had other things to do during the day and didn't have a computer around, so I just learned C++ at night, and I'll continue with the algorithms in the morning.
