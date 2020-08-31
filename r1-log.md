@@ -105,3 +105,7 @@ The log of my #100DaysOfCode challenge. Started on [Aug 7, Friday, 2020].
 ### R1D24: Aug, 30, Sunday, 2020
 
 **Today's Progress**: I had other things to do during the day and didn't have a computer around, so I just learned C++ at night, and I'll continue with the algorithms in the morning.
+
+### R1D25: Aug, 31, Monday, 2020
+
+**Today's Progress**: learned the Mergesort course and begin to do programming assignment.
