@@ -109,3 +109,8 @@ The log of my #100DaysOfCode challenge. Started on [Aug 7, Friday, 2020].
 ### R1D25: Aug, 31, Monday, 2020
 
 **Today's Progress**: learned the Mergesort course and begin to do programming assignment.
+
+### R1D26: Sep, 1, Tuesday, 2020
+
+**Today's Progress**: finished the week3 programming assignment.
+
