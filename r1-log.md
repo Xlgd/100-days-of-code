@@ -117,3 +117,7 @@ The log of my #100DaysOfCode challenge. Started on [Aug 7, Friday, 2020].
 ### R1D27: Sep, 2, Wednesday, 2020
 
 **Today's Progress**: learned the basics of Object-Based Programming and Generic Programming in C++.
+
+### R1D28: Seq, 3, Thursday, 2020
+
+**Today's Progress**: learned the basics of Object-Oriented Programming in C++.
