@@ -129,3 +129,7 @@ The log of my #100DaysOfCode challenge. Started on [Aug 7, Friday, 2020].
 ### R1D30: Seq, 5, Saturday, 2020
 
 **Today's Progress**: learned the basics of Exception Handling in C++. Finish the Essential C++ book.
+
+### R1D31: Seq, 6, Sunday, 2020
+
+**Today's Progress**: finished some exercises in C++.
