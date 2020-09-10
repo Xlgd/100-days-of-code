@@ -138,3 +138,7 @@ The log of my #100DaysOfCode challenge. Started on [Aug 7, Friday, 2020].
 
 **Today's Progress**: Wrote a string class in C++, familiar with memory management and copy control.
 
+### R1D33: Seq, 10, Thursday, 2020
+
+**Today's Progress**: just reading effective c++.
+
